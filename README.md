@@ -7,7 +7,7 @@ Welcome to the **DataNerds Community**! 🌟
 We are thrilled to announce our upcoming **Data Science Webinar Series**, scheduled to run for a week starting on the 26th of this month! 🗓
 
 ### 📚 Webinar Details:
-
+uiop[
 - **🗓 Date:** 26th August - 2nd September 
 - **🕒 Time:** 11:00 AM - 3:00 PM (with a lunch break in-between)
 - **📍 Venue:** Online (Zoom/Google Meet link will be shared soon)
